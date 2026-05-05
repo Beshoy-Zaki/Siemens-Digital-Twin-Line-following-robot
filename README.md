@@ -121,13 +121,7 @@ LineFollower_Success/
 
 ---
 
-## 9. References
-
-- [VSI User Manual](#) _(link to relevant documentation, if available)_
-
----
-
-## 10. Contact
+## 9. Contact
 
 For questions or support, contact:  
 Beshoy Zaki Farouk  
